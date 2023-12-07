@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Vishvendra Tomar 👋</h1>
 <h3 align="center">Passionate Frontend Developer | India 🇮🇳</h3>
 
+<p align="center">Welcome to my GitHub profile! I'm Vishvendra Tomar, a dedicated full-stack developer with a love for crafting seamless and visually appealing web experiences. I'm based in India and always enthusiastic about exploring new technologies and best practices in the world of web development.</p>
+
 - 📫 Reach me at **vishvendratomar29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
