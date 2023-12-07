@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vishvendra Tomar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Highly skilled Full Stack Web Developer proficient in MERN stack (MongoDB, Express.js, React.js, Node.js) with a strong foundation of 1200 hours in coding. Demonstrates adaptability through solo and collaborative projects. Excels in crafting responsive web designs and problem-solving. Effective communicator with excellent teamwork and time management skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1167.jpg?w=826">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VishvendraTomar&label=Profile%20views&color=0e75b6&style=flat" alt="VishvendraTomar" /> </p>
@@ -61,8 +61,7 @@
 </div>
 # 📊 GitHub Stats:
 
-<a href="https://twitter.com/https://twitter.com/vishven0608971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vishven0608971" height="30" width="40" /></a>
-</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishvendratomar&show_icons=true&locale=en" alt="vishvendratomar" /></p>
 
