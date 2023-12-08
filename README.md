@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **VishvendraTomar29@gmail.com**
 
-- 👨‍💻 All my projects are available at my [Portfolio](https://vishvendratomar.github.io/)
+
 
 
 <h3 align="left">Connect with me:</h3>
